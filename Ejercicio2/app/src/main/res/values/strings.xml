@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="Listado_matricula">Matricula:                          - Desarrollo de Apliaciones    -Sistemas Operativos    -Sistemas de Información</string>
+    <string name="btnFinalizar">Finalizar</string>
+</resources>
