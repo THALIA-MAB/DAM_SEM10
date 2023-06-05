@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAMSem10_ToastSnackBar</string>
+    <string name="MensajeDuraciónCorta">Mensaje Duración Corta</string>
+    <string name="MensajeDuracionMedia">"Mensaje Duracion Media "</string>
+    <string name="MensajeDuracionMedia1">Mensaje Duracion Media</string>
+    <string name="MensajeDuracionLarga">Mensaje Duracion Larga</string>
+</resources>
